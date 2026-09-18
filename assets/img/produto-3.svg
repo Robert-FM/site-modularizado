@@ -1,0 +1,8 @@
+<svg width="800" height="500" viewBox="0 0 800 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="800" height="500" rx="24" fill="#F5FBFB"/>
+<circle cx="400" cy="240" r="126" fill="#0D7377"/>
+<circle cx="400" cy="240" r="84" fill="white" fill-opacity="0.16"/>
+<rect x="315" y="205" width="170" height="22" rx="11" fill="white" fill-opacity="0.95"/>
+<rect x="315" y="243" width="120" height="16" rx="8" fill="white" fill-opacity="0.6"/>
+<text x="400" y="430" fill="#0D7377" font-size="34" font-family="Arial" text-anchor="middle">Produto 3</text>
+</svg>
