@@ -83,12 +83,15 @@ Uma das opções abaixo é suficiente:
 
 ## ▶️ Como executar
 
-### Opção 1 — VS Code + Live Server
+### Opção 1 — Go Live no VS Code (recomendada)
 
 1. Abra a pasta do projeto no Visual Studio Code.
 2. Instale a extensão **Live Server**, caso ainda não esteja instalada.
-3. Clique com o botão direito em `index.html`.
-4. Selecione **Open with Live Server**.
+3. Abra o arquivo `index.html`.
+4. Clique no botão **Go Live**, no canto inferior direito do VS Code.
+5. O navegador será aberto automaticamente com o site rodando localmente.
+
+Também é possível clicar com o botão direito em `index.html` e selecionar **Open with Live Server**.
 
 ### Opção 2 — Servidor local com Python
 
